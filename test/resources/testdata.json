@@ -1,0 +1,12 @@
+{
+    "logindata":{
+        "username" : "standard_user",
+        "password" : "secret_sauce"
+    },
+    "checkoutdata":{
+        "firstname": "vandna",
+        "lastname" : "parashar",
+        "postalcode" : "201001"
+    }
+
+}
